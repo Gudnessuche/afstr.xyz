@@ -176,7 +176,7 @@ export const navItems = [
       id: 2,
       title: "Social Media Strategist",
       desc: "Helped Bitdevs Social Media expansion for visibility",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
